@@ -1,0 +1,51 @@
+# Template only. Empty fields are unknown, not evidence of completeness.
+# Copy and fill before promoting a seed into an experiment-ready hypothesis.
+id: null
+version: 1
+status: PROPOSED
+problem_id: null
+claim: null
+scope: null
+mechanism: null
+operator_used: null
+parent_hypotheses: []
+what_changes_from_prior_attempts: null
+assumptions: []
+evidence_for: []
+evidence_against: []
+nearest_rival: null
+other_possible_mechanisms: []
+novelty:
+  to_project: unknown
+  relative_to_searched_literature: unknown
+  search_scope_and_date: null
+  nearest_prior_work: []
+distinguishing_prediction: null
+would_weaken_or_falsify: null
+experiment:
+  question: null
+  intervention: null
+  controls: []
+  metrics: []
+  sampling_logic: null
+  positive_result_interpretation: null
+  negative_result_interpretation: null
+  inconclusive_result_interpretation: null
+  confounds_and_limits: []
+  required_tools: []
+  available_tools: []
+  budget: null
+  authorization: not_requested
+  execution_status: not_run
+  artifact_refs: []
+validation:
+  paths: []
+  shared_dependencies: []
+  unknown_dependencies: []
+  independence_status: not_established
+decision:
+  verdict: RETAIN_SEED
+  rationale: null
+  supporting_evidence_ids: []
+  next_question: null
+  reopen_conditions: []
